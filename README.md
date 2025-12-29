@@ -195,7 +195,8 @@ This project is for educational purposes. Please check the dataset license in `I
 
 ## Contact
 
-For questions or suggestions, please open an issue in the repository.
+For questions or suggestions, contact me via email.
+E-mail id: ashai011004@gmail.com
 
 ---
 
