@@ -4,9 +4,8 @@ A real-time Indian Sign Language (ISL) detection system using YOLOv8 for gesture
 
 ## Demo
 
-<p align="center">
-  <img src="Screenshot 2025-12-29 190329.png" alt="Indian Sign Language Detection - Real-time Detection showing letter 'E'" width="800">
-</p>
+<img width="953" height="765" alt="Screenshot 2025-12-29 190329" src="https://github.com/user-attachments/assets/39472d2a-41a4-426f-bc5a-fb3db4abccaa" />
+
 
 ## Features
 
